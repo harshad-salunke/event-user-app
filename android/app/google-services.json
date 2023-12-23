@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17233542363",
+    "project_id": "pune-event",
+    "storage_bucket": "pune-event.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17233542363:android:3ed2465333308a19aae0fe",
+        "android_client_info": {
+          "package_name": "com.harshad.event_booking_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWCYqu6R42bW8JiDnez_dALBa2mVTP5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
